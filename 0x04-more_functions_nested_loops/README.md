@@ -1,0 +1,1 @@
+In this project we explore more functions in C-programming as well as other nested loops of importance. All the executable files to be generated in this project will be compiled in a header file known as main.h. Functions will also be developed in this project using prototypes.
