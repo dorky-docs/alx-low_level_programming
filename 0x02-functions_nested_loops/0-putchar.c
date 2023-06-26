@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-main - print _putchar
-Authour: Dorcas
+*main - prints _putchar
+*Authour: Dorcas
 *Return: 0 (Success)
 */
 
