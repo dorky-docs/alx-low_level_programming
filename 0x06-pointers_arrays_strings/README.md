@@ -1,0 +1,1 @@
+In this project, we will delve deeper into pointers, arrays and strings in C-programming. As alwasy, we will be using prototypes of our functions. All the codes generated for this project will be compiled using the header file main.h which will be made executable
