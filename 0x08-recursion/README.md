@@ -1,0 +1,1 @@
+In this project, we take a look at recursions in c. How a function can call itself. How it can break down tsks into simpler tasts to perfrom, how the tecniques used in executing one code can be used to execute a similar code. We will also explore factorial and how n factorial= n factorial (n-1)factorial works in recusion in c-programming
