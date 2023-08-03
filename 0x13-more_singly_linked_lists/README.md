@@ -1,0 +1,1 @@
+ Hi again, i am back with another obvious masterpiece. Remember when i said we were not done with singly linked lists? Well we are going to be taking a deeper dive into this amazing topic in C-programming. Things will get very technical, i must warn of that much, but i promise it will be worth it. This is ALX and we do hard things. Alright , lets get into this.
