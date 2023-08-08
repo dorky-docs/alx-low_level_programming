@@ -1,0 +1,1 @@
+Helloe once again and welcome to another great and exiting at ALX where we do hard things. So today, we will explore file input-output. We will look at how files are manipulated using open, create, read write, append... and so one in file i/o. Let me not nore you with a lot of words. i rather show you how it works. So without further ado, lets dive innncd 0x15-file_io
